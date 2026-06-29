@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables — never commit secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime / OS
+.DS_Store
+Thumbs.db
+
+# Uploads (local dev only — production uses Cloudinary)
+uploads/

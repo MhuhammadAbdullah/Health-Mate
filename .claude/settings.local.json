@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(findstr -i \"lucide\\\\|tabler\\\\|material\\\\|heroicon\\\\|icon\")",
+      "Bash(npm install *)"
+    ]
+  }
+}
